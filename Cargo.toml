@@ -1,6 +1,6 @@
 [package]
 name = "lau-ensign"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "THE ensign system — small models that wake up on-call, orient from baton and room state, and keep rooms fine-tuned at yellow alert"
 license = "MIT"
