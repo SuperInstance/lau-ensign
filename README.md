@@ -459,3 +459,9 @@ Linear depletion, no recovery within a shift.
 ## License
 
 MIT
+
+---
+## Conservation Law Integration
+This crate is part of the SuperInstance SEED Tier1 ecosystem, designed to enforce conservation laws across agentic systems. For more information, see:
+- [Conservation Law Documentation](https://github.com/SuperInstance/conservation-law)
+- [SEED SDK Installation Guide](https://github.com/SuperInstance/SuperInstance#quickstart)
